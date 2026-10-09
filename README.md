@@ -1,2 +1,4 @@
 # LocalCopy
 A issue turned into a solution. Advised to run on un-exposed networks only. Could be a great public experimen if left open to the web...
+
+A
